@@ -19,5 +19,9 @@ You can use this directory template to test your library.
 
 - Replace ```<your student id>``` in Makefile and main.c with your student ID
 
-- Type ```make```
+- Type ```make```, and if it succeeds, then you should see the following message.
+
+    ```
+    Passed one test case!! Try to submit it!
+    ```
   
